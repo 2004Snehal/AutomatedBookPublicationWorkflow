@@ -1,0 +1,19 @@
+{
+  "version_id": "55f18cf7-2b49-4b8e-9c4d-30ef5184e9dc",
+  "content_id": "e749ee47-78a6-48eb-bf3b-1b0ba62883bb",
+  "content": "This is a test content for processing.",
+  "version_number": 1,
+  "timestamp": "2025-06-18T19:26:25.028138",
+  "author": "writer_agent",
+  "changes": [
+    "Initial version"
+  ],
+  "metadata": {
+    "title": "Content 20250618_192625",
+    "description": "",
+    "tags": [],
+    "source_url": null
+  },
+  "parent_version": null,
+  "status": "draft"
+}

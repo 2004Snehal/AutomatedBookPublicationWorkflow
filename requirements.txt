@@ -1,0 +1,44 @@
+# Core Web Scraping
+playwright==1.40.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# AI and ML - Google Gemini
+google-generativeai==0.3.2
+langchain==0.0.350
+langchain-google-genai==0.0.5
+chromadb==0.4.18
+sentence-transformers==2.2.2
+numpy==1.24.3
+pandas==2.0.3
+
+# FastAPI and Web Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+websockets==12.0
+python-multipart==0.0.6
+
+# Database and Storage
+sqlalchemy==2.0.23
+alembic==1.12.1
+psycopg2-binary==2.9.9
+
+# Image Processing
+Pillow==10.1.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+loguru==0.7.2
+tenacity==8.2.3
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.2
+
+# Development
+black==23.11.0
+isort==5.12.0
+flake8==6.1.0 

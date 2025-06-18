@@ -1,0 +1,19 @@
+{
+  "version_id": "2580c9ed-7949-4254-8ea0-3cc958964626",
+  "content_id": "ce9c94cf-63f5-4ee1-9bc7-41d10ee8fe59",
+  "content": "This is a test content for processing. It should be transformed by the AI agents.",
+  "version_number": 1,
+  "timestamp": "2025-06-18T02:14:45.679094",
+  "author": "writer_agent",
+  "changes": [
+    "Initial version"
+  ],
+  "metadata": {
+    "title": "Content 20250618_021445",
+    "description": "",
+    "tags": [],
+    "source_url": null
+  },
+  "parent_version": null,
+  "status": "draft"
+}

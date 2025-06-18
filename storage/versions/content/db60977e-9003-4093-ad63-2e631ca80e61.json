@@ -1,0 +1,19 @@
+{
+  "version_id": "db60977e-9003-4093-ad63-2e631ca80e61",
+  "content_id": "b1b1d565-59d4-4e1c-a40b-dde2d6987c20",
+  "content": "",
+  "version_number": 2,
+  "timestamp": "2025-06-18T02:53:35.726970",
+  "author": "writer_agent",
+  "changes": [
+    "AI transformation of chunk 1/18"
+  ],
+  "metadata": {
+    "title": "Content from https://en.wikisource.org/wiki/The_Great_Gatsby/Chapter_1",
+    "description": "",
+    "tags": [],
+    "source_url": null
+  },
+  "parent_version": "92a400bd-590f-427d-915b-16bbe651fc9f",
+  "status": "draft"
+}

@@ -1,0 +1,19 @@
+{
+  "version_id": "d92ef640-1077-45dc-b6cb-45e7d0cd0ece",
+  "content_id": "cbc568ca-1ebb-4639-8bab-00af8db66c2b",
+  "content": "This is a test content for the chunked workflow.",
+  "version_number": 1,
+  "timestamp": "2025-06-18T16:31:57.647527",
+  "author": "writer_agent",
+  "changes": [
+    "Initial version"
+  ],
+  "metadata": {
+    "title": "Content 20250618_163157",
+    "description": "",
+    "tags": [],
+    "source_url": null
+  },
+  "parent_version": null,
+  "status": "draft"
+}

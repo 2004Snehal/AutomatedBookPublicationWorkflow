@@ -1,0 +1,19 @@
+{
+  "version_id": "8e66e2f4-e2c1-4c59-b4fe-c66ee4683abb",
+  "content_id": "649b2555-7946-4823-9a63-548a45a62900",
+  "content": "Content could not be scraped due to rate limiting. Please try again later or use a different URL.",
+  "version_number": 1,
+  "timestamp": "2025-06-18T17:27:27.567608",
+  "author": "writer_agent",
+  "changes": [
+    "Initial version"
+  ],
+  "metadata": {
+    "title": "Content 20250618_172727",
+    "description": "",
+    "tags": [],
+    "source_url": null
+  },
+  "parent_version": null,
+  "status": "draft"
+}

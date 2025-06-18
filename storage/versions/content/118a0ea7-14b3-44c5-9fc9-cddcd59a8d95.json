@@ -1,0 +1,23 @@
+{
+  "version_id": "118a0ea7-14b3-44c5-9fc9-cddcd59a8d95",
+  "content_id": "30be741e-8c55-4253-a6ca-7fad57e0e7f0",
+  "content": "\n    The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan.\n    \n    A literary classic, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream.\n    \n    Fitzgerald\u2014inspired by the parties he had attended while visiting Long Island's north shore\u2014began planning the novel in 1923, desiring to produce, in his words, \"something new\u2014something extraordinary and beautiful and simple and intricately patterned.\" Progress was slow, with Fitzgerald completing his first draft following a move to the French Riviera in 1924.\n    ",
+  "version_number": 1,
+  "timestamp": "2025-06-18T16:38:31.420401",
+  "author": "writer_agent",
+  "changes": [
+    "Initial version"
+  ],
+  "metadata": {
+    "title": "Test Chunked Processing",
+    "description": "Testing the chunked workflow",
+    "tags": [
+      "test",
+      "literature",
+      "chunked"
+    ],
+    "source_url": null
+  },
+  "parent_version": null,
+  "status": "draft"
+}

@@ -1,0 +1,16 @@
+{
+  "content_id": "30be741e-8c55-4253-a6ca-7fad57e0e7f0",
+  "created_at": "2025-06-18T16:38:31.421404",
+  "updated_at": "2025-06-18T16:38:38.009873",
+  "total_versions": 2,
+  "current_version": "2b88d80a-f447-4058-bc4d-513221382c15",
+  "status": "draft",
+  "title": "Test Chunked Processing",
+  "description": "Testing the chunked workflow",
+  "tags": [
+    "test",
+    "literature",
+    "chunked"
+  ],
+  "source_url": null
+}

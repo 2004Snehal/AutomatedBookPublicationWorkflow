@@ -1,0 +1,22 @@
+{
+  "version_id": "c298282c-4065-46b3-b4ac-b0b44184c17c",
+  "content_id": "9a333e55-dc8a-4146-b3d8-22b3c65936c1",
+  "content": "\n    In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.\n    \n    \"Whenever you feel like criticizing any one,\" he told me, \"just remember that all the people in this world haven't had the advantages that you've had.\"\n    \n    He didn't say any more, but we've always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that.\n    ",
+  "version_number": 1,
+  "timestamp": "2025-06-18T16:37:43.357630",
+  "author": "writer_agent",
+  "changes": [
+    "Initial version"
+  ],
+  "metadata": {
+    "title": "Test Content Processing",
+    "description": "Testing the AI workflow",
+    "tags": [
+      "test",
+      "literature"
+    ],
+    "source_url": null
+  },
+  "parent_version": null,
+  "status": "draft"
+}

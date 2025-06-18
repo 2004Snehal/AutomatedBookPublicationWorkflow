@@ -1,0 +1,29 @@
+{
+  "version_id": "a0914f59-2544-4a8f-a8c9-b6ceeb6757ac",
+  "content_id": "d19d36fc-b940-4979-9173-791b8310159e",
+  "content": {
+    "original_content": "Test content for processing",
+    "transformed_content": "",
+    "error": "Content transformation failed: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.",
+    "processing_metrics": {
+      "processing_time": 12.01600000000326,
+      "success": false
+    },
+    "success": false,
+    "workflow_id": null
+  },
+  "version_number": 2,
+  "timestamp": "2025-06-18T01:56:17.124289",
+  "author": "writer_agent",
+  "changes": [
+    "AI content transformation"
+  ],
+  "metadata": {
+    "title": "Content 20250618_015605",
+    "description": "",
+    "tags": [],
+    "source_url": null
+  },
+  "parent_version": "094ab5ed-ea44-4daa-918f-e917954e0bb5",
+  "status": "draft"
+}
