@@ -139,11 +139,7 @@ src/
 - Cloud deployment
 - Mobile application
 
-## Documentation
 
-- [Complete Project Documentation](PROJECT_DOCUMENTATION.md)
-- [Interview Guide](INTERVIEW_GUIDE.md)
-- [API Documentation](http://localhost:8000/docs)
 
 ## Contributing
 
