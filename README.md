@@ -57,11 +57,6 @@ python -m uvicorn src.api.main:app --host 0.0.0.0 --port 8000 --reload
 streamlit run src/ui/streamlit_app.py --server.port 8501
 ```
 
-### Access the Application
-- Frontend: http://localhost:8501
-- Backend API: http://localhost:8000
-- API Docs: http://localhost:8000/docs
-
 ## AI Agents
 
 ### Writer Agent
